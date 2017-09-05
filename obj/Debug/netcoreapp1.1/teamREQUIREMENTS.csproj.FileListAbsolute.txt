@@ -1,0 +1,16 @@
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.deps.json
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.runtimeconfig.json
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.runtimeconfig.dev.json
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.dll
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.pdb
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/obj/Debug/netcoreapp1.1/teamREQUIREMENTS.AssemblyInfo.cs
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/obj/Debug/netcoreapp1.1/teamREQUIREMENTS.dll
+/home/slim/Documentos/Desenvolvimento/teamREQUIREMENTS/obj/Debug/netcoreapp1.1/teamREQUIREMENTS.pdb
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.deps.json
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.runtimeconfig.json
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.runtimeconfig.dev.json
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.dll
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/bin/Debug/netcoreapp1.1/teamREQUIREMENTS.pdb
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/obj/Debug/netcoreapp1.1/teamREQUIREMENTS.AssemblyInfo.cs
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/obj/Debug/netcoreapp1.1/teamREQUIREMENTS.dll
+/home/slim/Documentos/Desenvolvimento/teamREQS/teamREQUIREMENTS/obj/Debug/netcoreapp1.1/teamREQUIREMENTS.pdb
